@@ -1,1 +1,15 @@
-
+body {
+  background-color: #789;
+  color: white
+    font-family: garamond, times new roman, sans serif;
+  margin: 7.5% 15%
+}
+.exp-header, h1, h3 {
+  text-align: center;
+  text-transform: ;
+  border-bottom: 5px solid #4566;
+  background-color: #4322
+}
+h5{
+  text-transform: uppercase;
+}
