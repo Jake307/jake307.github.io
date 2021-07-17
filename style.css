@@ -1,15 +1,22 @@
-body {
-  background-color: #789;
-  color: white
-    font-family: garamond, times new roman, sans serif;
-  margin: 7.5% 15%
+h1, p, h3, ul, li, h5, h4, {}
+
+h1{background: lightblue;
+  text-align: center
 }
-.exp-header, h1, h3 {
-  text-align: center;
-  text-transform: ;
-  border-bottom: 5px solid #4566;
-  background-color: #4322
+p {
+  background: lightgray
 }
-h5{
-  text-transform: uppercase;
+h3 {
+  text-align:center;
+  background: lightgray;
+}
+ul {background: lightgray;
+}
+li {background: lightgray;
+}
+h5 {
+  text-align: left;
+  background: lightgray;
+}
+h4{background: lightgray;
 }
